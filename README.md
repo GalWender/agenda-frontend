@@ -17,5 +17,5 @@ npm start
 <img src="src/assets/img/agenda4.png"/>
 
 # Credit/Acknowledgment
-Tal Ben Atiya
+Tal Ben Atiya, 
 Or Agami
